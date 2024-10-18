@@ -1,4 +1,4 @@
-# Angrybird3D
+# Too Many Slimes
 Too Many Slimes Assets, packages, project settings zip 파일
 
 제작기간 24.09.11 ~ 24.09.13
